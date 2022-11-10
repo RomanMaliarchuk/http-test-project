@@ -35,7 +35,7 @@
     				  <muleVersion>4.4.0</muleVersion>
 					  <username>rm-maim-10112022</username>
       				  <password>Roman-10112022</password>
- 	    			  <applicationName>http-test-project-fromcmdmvn</applicationName>
+ 	    			  <applicationName>http-test-project-from-jenkins</applicationName>
     	  			  <environment>dev</environment>
       				  <workers>1</workers>
       				  <workerType>MICRO</workerType>
